@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="z"> </string>
+    <string name="a">Selamat Datang di Universitas Esa Unggul</string>
+    <string name="aa">Program Studi Teknik Informatika</string>
+    <string name="aaa">Fakultas Ilmu komputer</string>
+    <string name="aaaa">My Biodata</string>
+    <string name="b">Nama : Andri Kurnia Maualana</string>
+    <string name="bb">NIM : 20190801056</string>
+    <string name="bbb">Hobby : Bermain Game</string>
+    <string name="bbbb">Pekerjaan : Pelajar/Mahasiaswa</string>
+    <string name="c">Status : Single</string>
+</resources>
